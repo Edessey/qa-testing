@@ -6,7 +6,7 @@ public class QaFirstTest {
     public void firstTest() {
         System.out.println("Hello, corona!");
 
-      int sum = sumTwoDigits(17, 87);
+      int sum = sumTwoDigits(17, 86);
         System.out.println(sum);
 
         System.out.println(sumTwoDigits(9,13));
